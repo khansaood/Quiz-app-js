@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+}
+h2{
+    margin: 0 auto;
+}
+#maindiv{
+    border: 1px solid black;
+    background-color: cadetblue;
+    /* height: 250px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+}
+.inp{
+    background: gainsboro;
+    border-radius: 10px;
+    width: 450px;
+    height: 50px;
+    margin: 10px;
+    border: none;
+    padding: 5px;
+}
+
+.delbtn{
+    height: 30px;
+    width: 73px;
+}
+
+li{
+    width: auto;
+    background-color: gainsboro;
+    margin: 25px;
+    color: black;
+}
